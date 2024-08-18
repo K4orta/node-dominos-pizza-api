@@ -1,7 +1,6 @@
 import '../modules/DominosErrors.js';
 
 import Is from 'strong-type';
-import {FetchError} from 'node-fetch';
 
 import Address from '../modules/Address.js';
 import AmountsBreakdown from '../modules/AmountsBreakdown.js';

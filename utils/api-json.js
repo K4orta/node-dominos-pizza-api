@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 import urls from './urls.js';
 
 const post=async function(url, payload) {
