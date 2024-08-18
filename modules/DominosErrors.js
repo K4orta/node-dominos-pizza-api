@@ -129,11 +129,11 @@ const createErrorMessage=function(self,response){
     return self;
 }
 
-global.DominosValidationError=DominosValidationError;
-global.DominosPriceError=DominosPriceError;
-global.DominosPlaceOrderError=DominosPlaceOrderError;
-global.DominosAddressError=DominosAddressError;
-global.DominosDateError=DominosDateError;
-global.DominosStoreError=DominosStoreError;
-global.DominosProductsError=DominosProductsError;
-global.DominosTrackingError=DominosTrackingError;
+// global.DominosValidationError=DominosValidationError;
+// global.DominosPriceError=DominosPriceError;
+// global.DominosPlaceOrderError=DominosPlaceOrderError;
+// global.DominosAddressError=DominosAddressError;
+// global.DominosDateError=DominosDateError;
+// global.DominosStoreError=DominosStoreError;
+// global.DominosProductsError=DominosProductsError;
+// global.DominosTrackingError=DominosTrackingError;
