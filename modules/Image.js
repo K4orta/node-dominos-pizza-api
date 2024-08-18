@@ -7,8 +7,6 @@ class Image {
     constructor(productCode) {
         is.string(productCode);
         
-        super();
-        
         return this.#fetchImage(urls.images.replace('${productCode}',productCode));
     } 
 
